@@ -1,3 +1,3 @@
 # exampleRepo
-my first repository!
+my first repository! <br>
 I'm learning about GitHub.
